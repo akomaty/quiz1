@@ -166,7 +166,9 @@ Explain what will happen when we run the following commands:
 
 You need to specify where ``HEAD``, ``master`` and ``experiment`` will be after these commands, and you need to sketch theupdated history. You may add a graph as an answer in a folder named as follows: ``firstName_LastName_graphics``.
 
-Head and master and experiment will be on C4
+1.2.C4
+3.HEAD ON THE Master
+4.C5
 
 Question 10:
 -----------
